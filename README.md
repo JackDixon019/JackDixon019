@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-I am a current student at Coder Academy, studying in the Web Development Bootcamp. I come from a background in the sciences, looking forward to starting a new career path in software development!
+I am a Full Stack Developer with experience in Python and JavaScript. I come from a background in the sciences, where I helped design workflows for pathology labs to handle the increased workloads brought about by the pandemic. After spending the last year studying in a bootcamp, I'm looking forward to starting a new career path in software development!
 </p>
 
 <h2 align="center">Tech Stack</h2> 
